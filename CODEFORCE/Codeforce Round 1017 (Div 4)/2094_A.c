@@ -1,5 +1,5 @@
 //LInk : https://codeforces.com/contest/2094/problem/A
-
+// TRIPPI TROPPO
 #include <stdio.h>
 #include<stdlib.h>
 #include<string.h>
