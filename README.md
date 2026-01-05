@@ -27,7 +27,7 @@ codeforces/
 ```
 
 ## 🧩 Languages
-- Primarily C and Python 3
+- Primarily C , C++ and Python 3
 
 ---
 If you're also practicing algorithms or into competitive programming, feel free to connect – happy to discuss and learn together. 😄
