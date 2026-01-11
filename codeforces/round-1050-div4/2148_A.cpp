@@ -1,17 +1,17 @@
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
 #include <string>
-
 using namespace std;
 void solve(){
-    int x,y;
-    cin >> x>>y;
-    if(x>y){
-        cout<<y<<" "<<x<<endl;
+    int x , n;
+    cin >>x>>n;
+    if(n%2==1) {
+        cout<<x<<endl;
     }
     else{
-        cout<<x<<" "<<y<<endl;
+        cout<<0<<endl;
     }
 }
 
